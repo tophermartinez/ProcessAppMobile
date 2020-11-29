@@ -24,11 +24,11 @@
                 <Image Grid.Row="0" Source="processsalogo.png" HeightRequest="100" Margin="0,50,0,0"/>
 
                 <StackLayout Grid.Row="1" Padding="30,20">
-                    <Entry Placeholder="Usuario" PlaceholderColor="White"/>
+                    <Entry Placeholder="Usuario" PlaceholderColor="Black"/>
 
-                    <Entry Placeholder="Contraseña" PlaceholderColor="White" IsPassword="True"/>
+                    <Entry Placeholder="Contraseña" PlaceholderColor="Black" IsPassword="True"/>
 
-                    <Button Text="Iniciar Sesión" BackgroundColor="White" BorderRadius="30" TextColor="LightBlue"/>
+                    <Button Text="Iniciar Sesión" BackgroundColor="White" BorderRadius="30" TextColor="LightBlue" />
 
                     <StackLayout Orientation="Horizontal" >
                         <Label Text="Recuperar Contraseña"/>
