@@ -17,5 +17,7 @@ namespace ProcessAppMobile.Views
             InitializeComponent();
             this.BindingContext = new LoginViewModel();
         }
+
+       
     }
 }
