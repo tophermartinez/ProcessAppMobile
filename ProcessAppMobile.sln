@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessAppMobile.Android", "ProcessAppMobile\ProcessAppMobile.Android\ProcessAppMobile.Android.csproj", "{56D8F6E1-E95E-4D7E-8473-F3ADC8F758FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessAppMobile", "ProcessAppMobile\ProcessAppMobile\ProcessAppMobile.csproj", "{3E2EC6C1-FA09-4966-92A1-CE251E9F6E9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessAppMobile", "ProcessAppMobile\ProcessAppMobile\ProcessAppMobile.csproj", "{3E2EC6C1-FA09-4966-92A1-CE251E9F6E9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

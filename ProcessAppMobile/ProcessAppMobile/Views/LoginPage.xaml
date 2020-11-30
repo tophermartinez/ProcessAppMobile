@@ -24,9 +24,9 @@
                 <Image Grid.Row="0" Source="processsalogo.png" HeightRequest="100" Margin="0,50,0,0"/>
 
                 <StackLayout Grid.Row="1" Padding="30,20">
-                    <Entry Placeholder="Usuario" PlaceholderColor="Black"/>
+                    <Entry x:Name="usu" Placeholder="Usuario" PlaceholderColor="Black"/>
 
-                    <Entry Placeholder="Contraseña" PlaceholderColor="Black" IsPassword="True"/>
+                    <Entry  x:Name="pass" Placeholder="Contraseña" PlaceholderColor="Black" IsPassword="True"/>
 
                     <Button  Text="Iniciar Sesión"  x:Name="btnLog" BackgroundColor="White" BorderRadius="30" TextColor="LightBlue" />
 
